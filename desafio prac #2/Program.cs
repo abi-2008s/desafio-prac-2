@@ -63,7 +63,6 @@ namespace desafio_prac__2
                                 {
                                     RegistrarEstudiante(totalestudiantes);
                                     totalestudiantes++;
-                                    Console.WriteLine("\n[PROXIMAMENTE] Registro de estudiantes...");
                                 }
                                 else
                                 {
