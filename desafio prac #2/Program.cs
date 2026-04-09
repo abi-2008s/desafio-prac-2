@@ -290,6 +290,10 @@ namespace desafio_prac__2
             }
         }
 
+
+        //===============================
+        // LISTA COMPLETA DE ESTUDIANTES
+        //===============================
         static void MostrarListaCompleta(int total)
         {
             Console.Clear();
@@ -315,6 +319,10 @@ namespace desafio_prac__2
             }
         }
 
+        //=======================
+        // ESTADÍSTICAS GRUPALES
+        //=======================
+        
         static void MostrarEstadisticas(int total)
         {
             Console.Clear();
@@ -338,7 +346,7 @@ namespace desafio_prac__2
             double porcAprobados = (double)aprobados / total * 100;
             double porcReprobados = 100 - porcAprobados;
 
-            // IMPRESIÓN DE RESULTADOS
+            // Impresión de resultados
             Console.WriteLine($"\n\t Registros procesados: {total}");
             Console.WriteLine("\t ------------------------------------------------");
             Console.WriteLine($"\t Promedio General del Grupo:  {promedioG:F2}");
