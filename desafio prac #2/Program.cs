@@ -101,7 +101,9 @@ namespace desafio_prac__2
                                 }
                                 else
                                 {
+                                    Console.ForegroundColor = ConsoleColor.Red;
                                     Console.WriteLine("\n   ERROR: No hay datos para mostrar.");
+                                    Console.ResetColor();
                                 }
                             break;
                             case 4:
