@@ -45,4 +45,6 @@ arreglos.
 - María Fernanda Campos Mejía.
 - Emma Abigail Romero Rivas.
 
-              - Estudiantes de Ingeniería en Ciencias de la Computación -
+<p align="center">
+   - Estudiantes de Ingeniería en Ciencias de la Computación -
+</p>
